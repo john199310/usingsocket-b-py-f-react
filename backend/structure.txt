@@ -1,0 +1,24 @@
+my_project/
+│
+├── backend/
+│   ├── app/
+│   │   ├── __init__.py
+│   │   ├── main.py
+│   │ ├── models.py
+│   │   └── routes.py
+│   ├── tests/
+│   ├── venv/
+│   ├── .gitignore
+│   ├── requirements.txt
+│   └── run.py
+│
+└── frontend/
+    ├── public/
+    ├── src/
+    │   ├── components/
+    │   ├── App.js
+    │   ├── index.js
+    │   └── index.css
+    ├── .gitignore
+    ├── package.json
+    └──.md
